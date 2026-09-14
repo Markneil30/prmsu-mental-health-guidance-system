@@ -1,0 +1,19 @@
+# XAMPP / local files
+xampp/
+mysql/
+data/
+data_backup/
+
+# Environment / secrets
+.env
+
+# Local database configuration
+config/db.php
+
+# Backups
+*.bak
+*.backup
+
+# OS files
+Thumbs.db
+.DS_Store
